@@ -18,7 +18,7 @@ We're a team of four developers based in London, none of which had written a lin
 
 ### Use Instructions
 
-View our virtual reality experience <a href="https://www.spaceship-test.firebaseapp.com">here</a>
+View our virtual reality experience <a href="https://spaceship-test.firebaseapp.com">here</a>.
 
 On a mobile, place your phone inside a Google Cardboard VR headset (or similar) and tap the VR Goggles icon. With an Alexa with the Spaceship skill enabled, you can manipulate the VR view via voice commands. For example:
 - "Alexa, ask Spaceship to take me to mars"
